@@ -1,4 +1,4 @@
-# music-recommendation-system
+# Music-recommendation-system
 A Python-based music recommendation system leveraging Spotify data and Random Forest Regressor for predictions.
 
 Documentation for Music Recommendation System Code
